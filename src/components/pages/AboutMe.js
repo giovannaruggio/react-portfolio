@@ -20,7 +20,7 @@ export default function AboutMe() {
           <div className="right">
             <h1>About Me</h1>
             <p>
-              Front-end Web Developer with motion and graphic design experience
+              Web Developer with motion and graphic design experience
               educated at Temple University in Philadelphia. Recently earned a
               certificate in Full-Stack Web Development from The College of
               Liberal and Professional Studies at University of Pennsylvania.
