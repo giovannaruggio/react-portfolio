@@ -1,0 +1,14 @@
+.imgcontainer{
+    width: 500px;
+    height: 500px;
+    padding: 30px;
+}
+
+img{
+    max-width: 100%;
+}
+
+.right{
+    padding: 30px;
+    font-size: 20px;
+}

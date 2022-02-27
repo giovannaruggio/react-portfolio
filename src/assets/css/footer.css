@@ -1,0 +1,17 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    height: 80px;
+    width: 100%;
+    background-color: rgb(255, 231, 251);
+    color: rgb(0, 0, 0);
+    text-align: right;
+    padding: 10px;
+  }
+
+  #image {
+    height: 30px;
+    width: 30px;
+    margin: 5px;
+  }
